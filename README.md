@@ -4,8 +4,6 @@ Projeto desenvolvido para o desafio prático da **DIO**, com o objetivo de aplic
 
 A planilha permite informar os principais parâmetros de uma simulação, estimar a evolução do patrimônio ao longo do tempo, calcular dividendos mensais e sugerir uma distribuição do aporte de acordo com o perfil do investidor.
 
-![Prévia do simulador](images/simulador-preview.png)
-
 ## 📥 Arquivo do projeto
 
 ➡️ [Baixar / abrir a planilha do desafio](Desafio_DIO_Simulador_Investimentos_FIIs.xlsx)
@@ -112,9 +110,7 @@ Isso permite visualizar de forma simples o efeito do tempo e dos juros compostos
 ```text
 projeto_excel_DIO/
 ├── Desafio_DIO_Simulador_Investimentos_FIIs.xlsx
-├── README.md
-└── images/
-    └── simulador-preview.png
+└── README.md
 ```
 
 ## ▶️ Como utilizar
